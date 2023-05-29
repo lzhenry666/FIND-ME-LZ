@@ -294,6 +294,7 @@ a:hover{
     margin: 20px;
     padding: 5px;
     opacity: 0.9;
-
-
+    text-transform: uppercase;
+    rotate:30deg;
+transition-duration: 0.7s;
 }
